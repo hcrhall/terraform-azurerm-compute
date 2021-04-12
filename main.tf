@@ -1,3 +1,5 @@
+# This is a comment
+
 provider "azurerm" {
   version = ">= 1.1.0"
 }
